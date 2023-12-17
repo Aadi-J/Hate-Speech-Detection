@@ -1,0 +1,1 @@
+A machine learning model designed to identify the presence of hate speech in text. Although initially created in January 2020, I am reposting this project here due to the deletion of my previous account.
